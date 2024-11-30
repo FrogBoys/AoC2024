@@ -1,6 +1,6 @@
 namespace Days;
 
-public class Day1: IDay
+public class Day2: IDay
 {
     private string _date;
 
@@ -8,7 +8,7 @@ public class Day1: IDay
     {
         get
         {
-            return "01/12/2024";
+            return "02/12/2024";
         }
         set
         {
@@ -22,7 +22,7 @@ public class Day1: IDay
     {
         get
         {
-            return 1;
+            return 2;
         }
         set
         {

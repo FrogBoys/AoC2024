@@ -1,5 +1,5 @@
 # Advent of Code
-This is my Advent of Code in C#. In parrallel I will make attempts to code it all in C as well. --> [Advent of Code in C](https://github.com/FrogBoys/AoC2024InC)
+This is my Advent of Code in C#. In parrallel I will make attempts to code it all in C as well. :arrow_right: [Advent of Code in C](https://github.com/FrogBoys/AoC2024InC)
 ## Stars
 
 | Stars | Day |

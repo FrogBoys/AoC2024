@@ -1,0 +1,12 @@
+/home/mattias/RiderProjects/AoC_2024/Days/bin/Debug/net9.0/Days.deps.json
+/home/mattias/RiderProjects/AoC_2024/Days/bin/Debug/net9.0/Days.dll
+/home/mattias/RiderProjects/AoC_2024/Days/bin/Debug/net9.0/Days.pdb
+/home/mattias/RiderProjects/AoC_2024/Days/obj/Debug/net9.0/Days.GeneratedMSBuildEditorConfig.editorconfig
+/home/mattias/RiderProjects/AoC_2024/Days/obj/Debug/net9.0/Days.AssemblyInfoInputs.cache
+/home/mattias/RiderProjects/AoC_2024/Days/obj/Debug/net9.0/Days.AssemblyInfo.cs
+/home/mattias/RiderProjects/AoC_2024/Days/obj/Debug/net9.0/Days.csproj.CoreCompileInputs.cache
+/home/mattias/RiderProjects/AoC_2024/Days/obj/Debug/net9.0/Days.sourcelink.json
+/home/mattias/RiderProjects/AoC_2024/Days/obj/Debug/net9.0/Days.dll
+/home/mattias/RiderProjects/AoC_2024/Days/obj/Debug/net9.0/refint/Days.dll
+/home/mattias/RiderProjects/AoC_2024/Days/obj/Debug/net9.0/Days.pdb
+/home/mattias/RiderProjects/AoC_2024/Days/obj/Debug/net9.0/ref/Days.dll

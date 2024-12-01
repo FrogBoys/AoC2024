@@ -33,4 +33,14 @@ public class Day3: IDay
     public override void Run()
     {
     }
+
+    public override void Part1()
+    {
+        throw new NotImplementedException();
+    }
+
+    public override void Part2()
+    {
+        throw new NotImplementedException();
+    }
 }

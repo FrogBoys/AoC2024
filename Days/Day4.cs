@@ -3,7 +3,6 @@ namespace Days;
 public class Day4: IDay
 {
     private string _date;
-
     public override string Date
     {
         get
@@ -17,7 +16,6 @@ public class Day4: IDay
     }
 
     private string _dayNumber;
-
     public override int DayNumber
     {
         get
@@ -32,5 +30,16 @@ public class Day4: IDay
 
     public override void Run()
     {
+      
+    }
+
+    public override void Part1()
+    {
+        throw new NotImplementedException();
+    }
+
+    public override void Part2()
+    {
+        throw new NotImplementedException();
     }
 }

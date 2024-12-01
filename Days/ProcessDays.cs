@@ -12,8 +12,9 @@ public class ProcessDays
         {
             if (VARIABLE.DayNumber == dateNumber)
             {
-                Console.WriteLine("Starting challenge day " + VARIABLE.DayNumber);
-                Console.WriteLine("Date of challenge" + VARIABLE.Date);
+                Console.WriteLine("Starting challenge day:\t" + VARIABLE.DayNumber);
+                Console.WriteLine("Date of challenge:\t" + VARIABLE.Date);
+                VARIABLE.Run();
             }
         }
     }
@@ -26,7 +27,6 @@ public class ProcessDays
         {
             objects.Add((IDay)Activator.CreateInstance(type, constructorArgs));
         }
-        objects.Sort();
         return objects;
     }
 }
